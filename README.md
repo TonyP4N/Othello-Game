@@ -1,2 +1,3 @@
 # Othello Game
-AI Autofire
+
+An AI agent used to play the Othello chess game.
